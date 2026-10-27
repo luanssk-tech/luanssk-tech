@@ -23,4 +23,4 @@ Transformo dados em decisões: Formação em Logística que me dá visão de pro
 - CS50 (Harvard)
 
 ## 📫 Contato
-[LinkedIn](https://linkedin.com/in/luanssk) · [E-mail](lufernando.ssk@gmail.com)
+[LinkedIn](https://linkedin.com/in/luanssk) · [E-mail](mailto:lufernando.ssk@gmail.com)
