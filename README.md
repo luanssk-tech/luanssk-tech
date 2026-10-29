@@ -1,8 +1,9 @@
 ## 👋 Introducing Myself
 
 <img width="1024" height="307" alt="luan-portfolio" src="https://github.com/user-attachments/assets/1eee9dd3-8bb5-4f9b-aca0-521c933e2c3a" />
+<img width="2170" height="725" alt="59fcfc6e-6108-4d4f-9b10-463300e3f048" src="https://github.com/user-attachments/assets/bc379e2c-32cf-4d39-8e3b-e9f26a4b7117" />
 
-**Analista de Dados Jr | SQL · Python · Power BI · Looker Studio**  
+**Analista de Dados Jr | SQL · Python · Power BI · Looker Studio**
 Transformo dados em decisões: Formação em Logística que me dá visão de processos e de negócio.
 
 ### 📚 Projects
