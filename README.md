@@ -11,9 +11,8 @@ Database: Google BigQuery, PostgreSQL, MySQL
 Visualization: Tableau, Looker Studio
 Spreadsheet: Excel, Google Sheets
 
-## 📊 Projetos em destaque
-- **[Nome do Projeto 1](link-do-repo)**: uma frase com o problema e o resultado.
-- **[Nome do Projeto 2](link-do-repo)**: uma frase com o problema e o resultado.
+## 📊 Projetos em destaque[
+Explore my SQL case studies and projects in my portfolio.
 
 ## 📚 Formação e cursos
 - Google Data Analytics (2026)
