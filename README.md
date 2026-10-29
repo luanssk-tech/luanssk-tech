@@ -3,8 +3,6 @@
 <img width="1024" height="307" alt="luan-portfolio" src="https://github.com/user-attachments/assets/1eee9dd3-8bb5-4f9b-aca0-521c933e2c3a" />
 
 **Analista de Dados Jr | SQL · Python · Power BI · Looker Studio**  
-📍 São Paulo, SP · 🎓 Análise e Desenvolvimento de Sistemas (conclusão em 2026)
-
 Transformo dados em decisões: Formação em Logística que me dá visão de processos e de negócio.
 
 ### 📚 Projects
