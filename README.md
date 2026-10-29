@@ -1,4 +1,4 @@
-## 🙋🏻‍♀️ Introducing Myself
+## 👋 Introducing Myself
 
 <img width="1024" height="307" alt="luan-portfolio" src="https://github.com/user-attachments/assets/1eee9dd3-8bb5-4f9b-aca0-521c933e2c3a" />
 
