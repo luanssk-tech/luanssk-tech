@@ -6,10 +6,10 @@
 Transformo dados em decisões: Formação em Logística que me dá visão de processos e de negócio.
 
 ## 🛠️ Ferramentas
-Language: SQL, Python
-Database: Google BigQuery, PostgreSQL, MySQL
-Visualization: Tableau, Looker Studio
-Spreadsheet: Excel, Google Sheets
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, Looker Studio
+- Spreadsheet: Excel, Google Sheets
 
 ## 📊 Projetos em destaque[
 Explore my SQL case studies and projects in my portfolio.
