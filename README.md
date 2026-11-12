@@ -6,7 +6,7 @@
 Transformo dados em decisões: Formação em Logística que me dá visão de processos e de negócio.
 
 ### 📚 Projects
-Explore my SQL case studies and projects in my portfolio.
+Explore my SQL case studies and projects in my [Portfolio](https://github.com/luanssk-tech/Portfolio-Guide).
 
 ### 🛠️ Tools
 - Language: SQL, Python
